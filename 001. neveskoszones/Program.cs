@@ -35,4 +35,4 @@ A felhasználó nevének bekérése a konzolról és a kapott érték eltárolá
 
 Az üdvözlő üzenet kiírása a konzolra, amely tartalmazza a felhasználó nevét.
 
-Az utolsó sorban egy ReadLine() függvény hívása található, amely megakadályozza a program futásának azonnali befejezését, amíg a felhasználó nem nyom egy billentyűt a konzolon.*/ 
+Az utolsó sorban egy ReadLine() függvény hívása található, amely megakadályozza a program futásának azonnali befejezését, amíg a felhasználó nem nyom egy billentyűt a konzolon.*/
